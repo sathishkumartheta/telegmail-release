@@ -31,6 +31,21 @@ Please understand that this program is a work in progress. Few features i wish t
 2) A nice gui
 3) Ability to send all media
 
+
+/********************** telegmail v2 is here ***************************************/
+/*********************** UPDATED FEATURES******************************************/
+
+1) Exception handling added. Whenever there is network failure or any other exception, the program catches the exception and tries to reconnect
+2) when the current message is a reply to an old message, the program sends the old message as well
+
+Still a lot of features to add
+1)Send all media
+2)A nice guy
+3)Communicate health messages to gmail periodically
+
+
+
+
 Thanks for reading !
 
 1) If you like this application
